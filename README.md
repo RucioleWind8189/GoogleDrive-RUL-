@@ -1,6 +1,11 @@
 # プロジェクト名
 画像URL取得アプリ
 
+## ダウンロード
+最新版の `.exe` は以下からダウンロードできます：
+👉 [Releasesページへ]([https://github.com/ユーザー名/リポジトリ名/releases](https://github.com/RucioleWind8189/GoogleDrive-RUL-/tags))
+
+
 ## 概要
 Google Drive の画像ダウンロードURLを変換して、誰でもアクセスできる共有画像URLに変換するアプリです。
 
