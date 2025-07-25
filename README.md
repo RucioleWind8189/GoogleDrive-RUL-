@@ -3,7 +3,7 @@
 
 ## ダウンロード
 最新版の `.exe` は以下からダウンロードできます：
-👉 [Releasesページへ]([https://github.com/ユーザー名/リポジトリ名/releases](https://github.com/RucioleWind8189/GoogleDrive-RUL-/tags))
+👉 [Releasesページへ]([https://github.com/RucioleWind8189/GoogleDrive-RUL-/tags]
 
 
 ## 概要
